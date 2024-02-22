@@ -1,0 +1,1 @@
+const ProductSizesService = require('../services/ProductSizesService')
